@@ -1,6 +1,5 @@
 # 🌟 Ujjwalgram Mobile App
 
-<p align="center">
 ![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/db4fe4ee-69b7-433e-b139-bffba3a3c7ba =250x)  
 ![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/f6fd2987-d5c5-46d0-94ef-89309289d1f5 =250x)  
 ![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/be2d9414-23ce-4e6e-896b-9a275511f189 =250x)  
@@ -15,7 +14,7 @@
 ![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/440c7103-923f-44c3-a198-aba0556920f5 =250x)  
 ![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/dae42ac5-0b0f-4dc6-ae02-3995d6d2db75 =250x)  
 
-</p>
+
 
 ---
 
