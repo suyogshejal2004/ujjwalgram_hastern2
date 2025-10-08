@@ -1,15 +1,20 @@
 # 🌟 Ujjwalgram Mobile App
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db4fe4ee-69b7-433e-b139-bffba3a3c7ba" width="200" alt="Screenshot 1"/>
-  <img src="https://github.com/user-attachments/assets/f6fd2987-d5c5-46d0-94ef-89309289d1f5" width="200" alt="Screenshot 2"/>
-  <img src="https://github.com/user-attachments/assets/be2d9414-23ce-4e6e-896b-9a275511f189" width="200" alt="Screenshot 3"/>
-  <img src="https://github.com/user-attachments/assets/4b15f639-cf74-40a3-8371-3c9da142633a" width="200" alt="Screenshot 4"/>
-</p>
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/db4fe4ee-69b7-433e-b139-bffba3a3c7ba =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/f6fd2987-d5c5-46d0-94ef-89309289d1f5 =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/be2d9414-23ce-4e6e-896b-9a275511f189 =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/4b15f639-cf74-40a3-8371-3c9da142633a =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/545a6d4d-867c-4bd4-b9d9-3dcdef36f2a9 =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/7837bdf6-79e1-4c4e-b30d-91be5d8716ff =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/709fa933-5ed2-48b3-af94-e7d780beecb8 =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/ba5f400b-641e-40e4-9974-c45117f7f1d5 =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/38400782-ac29-4fc8-883e-d951d5504250 =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/1847c00b-23ff-4b4d-b3fe-20c8db72a8f8 =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/16e94a55-77e4-46bd-b83e-f7c165de6909 =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/440c7103-923f-44c3-a198-aba0556920f5 =250x)  
+![Ujjwalgram Screenshots](https://github.com/user-attachments/assets/dae42ac5-0b0f-4dc6-ae02-3995d6d2db75 =250x)  
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/545a6d4d-867c-4bd4-b9d9-3dcdef36f2a9" width="200" alt="Screenshot 5"/>
-  <img src="https://github.com/user-attachments/assets/7837bdf6-79e1-4c4e-b30d-91be5d8716ff" width="200" alt="Screenshot 6"/>
 </p>
 
 ---
